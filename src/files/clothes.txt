@@ -1,0 +1,7 @@
+CLOTHES
+cloth
+shirt
+dress
+jeans
+salwar
+kurta

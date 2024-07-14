@@ -1,0 +1,8 @@
+FOODSTUFFS
+chocolate bar
+bottle of wine
+box of chocolates
+icecream
+apple
+banana
+juice
