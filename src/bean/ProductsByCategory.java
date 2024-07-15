@@ -15,8 +15,8 @@ public class ProductsByCategory {
     }
 
     static {
-        List<String> productFilesPath = List.of("src\\files\\books.txt", "src\\files\\clothes.txt",
-                "src\\files\\food.txt");
+        List<String> productFilesPath = List.of("src/files/books.txt", "src/files/clothes.txt",
+                "src/files/food.txt");
         for (String filePath : productFilesPath) {
             try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
                 String category = reader.readLine();
